@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mubeenadev/mubeenadev.github.io"
+    "url": "https://github.com/mubeenadev/mubeenalog.git"
   },
   "scripts": {
     "dev": "next dev",
