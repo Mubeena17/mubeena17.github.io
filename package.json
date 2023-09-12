@@ -1,7 +1,11 @@
 {
-  "name": "Mubeena",
+  "name": "mubeena-portfolio",
   "version": "1.0.0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mubeenadev/mubeenadev.github.io"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",

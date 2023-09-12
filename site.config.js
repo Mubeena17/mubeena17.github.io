@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Develop website`,
-      href: "https://github.com/mubeena17",
+      href: "https://github.com/mubeenadev",
     },
   ],
   // blog setting (required)
@@ -23,10 +23,10 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  // link: "https://morethan-log.vercel.app",
-  // // If leave this empty, current year will be used.
-  // lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  // ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  link: "https://mubeenadev.github.io/",
+  since: 2023, // If leave this empty, current year will be used.
+  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
