@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/mubeenadev/mubeenalog.git"
   },
+  "homepage": "https://mubeenadev.github.io/mubeenalog/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
