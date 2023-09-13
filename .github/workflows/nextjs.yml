@@ -24,6 +24,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  # Setting an environment variable with the value of a configuration variable
+  NOTION_PAGE_ID: ${{ vars.NOTION_PAGE_ID }}
+
 jobs:
   # Build job
   build:
